@@ -827,6 +827,14 @@ h4 {
     width: 80%;
     margin: auto;
 }
+.tc-black-big{
+    color: #333333;
+    font-size: 38px;
+}
+.tc-black{
+    color: #333333;
+    font-size: 30px;
+}
 
 @media (max-width: 1024px) {
     .bloc {
