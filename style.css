@@ -182,7 +182,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -218,7 +218,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: black;
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -347,6 +347,8 @@ a:hover {
     float: right;
     position: relative;
     z-index: 2;
+}
+
 }
 
 @media (min-width: 768px) {
@@ -627,7 +629,6 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -692,7 +693,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 1.4em;
 }
 
@@ -826,14 +827,6 @@ h4 {
 .bloc-size{
     width: 80%;
     margin: auto;
-}
-.tc-black-big{
-    color: #333333;
-    font-size: 38px;
-}
-.tc-black{
-    color: #333333;
-    font-size: 30px;
 }
 
 @media (max-width: 1024px) {
